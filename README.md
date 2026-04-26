@@ -56,8 +56,8 @@ Aspiring Salesforce Developer | Apex | LWC | Triggers | Flows | Integration | Sa
 [![](https://komarev.com/ghpvc/?username=Piyush-19052005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mharshala334@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshala-m-64b458215)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piyushghonmode195@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/piyush-ghonmode-a8b207262)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/harshala334)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
