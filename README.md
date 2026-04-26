@@ -40,9 +40,6 @@ Aspiring Salesforce Developer | Apex | LWC | Triggers | Flows | Integration | Sa
 
 ## 🏆 Achievements/Extracurricular
 - 🏅 Reliance Foundation Undergraduate Scholar (2022–2026)  
-- 👩‍💻 Technical Head @ **E-Cell VJTI**  
-- 🎭 Chief Technical Lead @ **Rangawardhan VJTI**  
-- ⚡ Coding Ops Head @ **Technovanza VJTI**, led hackathons & coding competitions with **250+ participants**  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Piyush-19052005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
