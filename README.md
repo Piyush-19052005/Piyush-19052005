@@ -29,14 +29,16 @@ Aspiring Salesforce Developer | Apex | LWC | Triggers | Flows | Integration | Sa
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ## 🚀 Projects
-- 📌 **[Real Estate Platform](https://github.com/harshala334/real-estate)**  
-  Built a responsive property platform with **interactive maps (Leaflet.js)**, advanced filtering, and user profile management.  
+- 📌 **[Employee Leave Management System]**  
+ Implemented Apex Triggers, Reports , Dashboards, and Lightning Web Components (LWC) to manage leave records,
+generate real-time insights, and improve HR workflow efficiency.
+- 📌 **[Recruitment , Job Application Portal ]**  
+  Developed a Recruitment , Job Application Portal in Salesforce to manage job openings, candidate applications,
+interview scheduling, and hiring workflows using Custom Objects, Apex, Flows, and Lightning Web Components (LWC).  
 
-- 📌 **[SkillSync: Peer Learning Hub](https://skill-sync-frontend-omega.vercel.app/)**  
-  A collaboration hub for students with **Kanban boards, real-time chat, GitHub integration, and OAuth authentication**.  
-
-- 📌 **[AI-Driven Disaster Management](https://github.com/harshala334/Disaster-analysis-using-satellite-imagery)**  
-  Developed a CNN-based system for disaster analysis with **98% accuracy**, leveraging data augmentation.  
+- 📌 **[AI Recruitment Assistant]**  
+ Developed an AI-powered Recruitment Assistant using Agentforce, Salesforce Flows, and Apex to automate candidate
+screening, interview scheduling, and recruitment workflows
  
 ---
 
