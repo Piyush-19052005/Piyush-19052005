@@ -9,7 +9,16 @@ Aspiring Salesforce Developer | Apex | LWC | Triggers | Flows | Integration | Sa
 
 ---
 ## 💼 Experience
+### Cloud Computing Intern
+**Intelligence CloudGen Technologies**  
+📍 Pune, India  
+📅 15 Jan 2026 – 15 Jun 2026
 
+- Learned cloud computing fundamentals and AWS services.
+- Worked with AWS EC2, S3, IAM, and VPC.
+- Deployed and managed cloud-based applications.
+- Gained hands-on experience in cloud infrastructure and web application hosting.
+- Collaborated with the team on cloud deployment tasks and documentation.
 
 ---
 
