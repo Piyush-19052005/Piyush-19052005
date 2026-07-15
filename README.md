@@ -12,7 +12,7 @@ Aspiring Salesforce Developer | Apex | LWC | Triggers | Flows | Integration | Sa
 ### Cloud Computing Intern
 **Intelligence CloudGen Technologies**  
 📍 Pune, India  
-📅 15 Jan 2026 – 15 Jun 2026
+📅 15 Jan 2026 – 15 Mar 2026
 
 - Learned cloud computing fundamentals and AWS services.
 - Worked with AWS EC2, S3, IAM, and VPC.
@@ -41,7 +41,7 @@ Aspiring Salesforce Developer | Apex | LWC | Triggers | Flows | Integration | Sa
 - 📌 **[Employee Leave Management System]**  
  Implemented Apex Triggers, Reports , Dashboards, and Lightning Web Components (LWC) to manage leave records,
 generate real-time insights, and improve HR workflow efficiency.
-- 📌 **[Recruitment , Job Application Portal ]**  
+- 📌 **[Hospital Management System]**  
   Developed a Recruitment , Job Application Portal in Salesforce to manage job openings, candidate applications,
 interview scheduling, and hiring workflows using Custom Objects, Apex, Flows, and Lightning Web Components (LWC).  
 
